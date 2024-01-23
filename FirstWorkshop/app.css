@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+#logo {
+  height: 350px;
+}
+
+img {
+  width: 100%;
+  margin-top: 270px;
+}
+
+table {
+  color: white;
+  border: 2px solid white;
+}
+
+.container-two {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
