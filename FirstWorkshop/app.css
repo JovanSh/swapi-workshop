@@ -16,7 +16,7 @@ table {
   border: 2px solid white;
 }
 
-.container-two {
+.container-one {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
